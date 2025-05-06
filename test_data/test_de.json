@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "de",
+            "message": {
+                "StringID_1": "Dies ist die erste "Testzeichenfolge".",
+                "StringID_2": "Dies ist Testzeichenfolge zwei."
+            }
+        }
+    ]
+}

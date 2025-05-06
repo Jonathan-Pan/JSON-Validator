@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "en",
+            "message": {
+                "StringID_1": "This is test string one.",
+                "StringID_2": "This is test string two."
+            }
+        }
+    ]
+}

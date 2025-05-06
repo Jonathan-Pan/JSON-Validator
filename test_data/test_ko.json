@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "ko",
+            "message": {
+                "StringID_1": "이것은 테스트 문자열 1입니다.",
+                "StringID_2": "이것은 테스트 문자열 2입니다."
+            }
+        }
+    ]
+}

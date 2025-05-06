@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "es",
+            "message": {
+                "StringID_1": "Esta es la cadena de prueba número uno.",
+                "StringID_2": "Esta es la segunda cadena de prueba."
+            }
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "zh_CN",
+            "message": {
+                "StringID_1": "这是测试字符串一。",
+                "StringID_2": "这是测试字符串二。"
+            }
+        }
+    ]
+}

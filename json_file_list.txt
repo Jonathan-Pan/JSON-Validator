@@ -1,0 +1,7 @@
+C:\JSON-Validator\test_data\test_de.json
+C:\JSON-Validator\test_data\test_es.json
+C:\JSON-Validator\test_data\test_fr.json
+C:\JSON-Validator\test_data\test_ja.json
+C:\JSON-Validator\test_data\test_ko.json
+C:\JSON-Validator\test_data\test_ru.json
+C:\JSON-Validator\test_data\test_zh-CN.json

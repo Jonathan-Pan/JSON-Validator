@@ -1,0 +1,11 @@
+{
+    "localization": [
+        {
+            "locale": "ja",
+            "message": {
+                "StringID_1": "これはテスト文字列 1 です。"
+                "StringID_2": "これはテスト文字列 2 です。"
+            }
+        }
+    ]
+}
