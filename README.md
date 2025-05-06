@@ -1,6 +1,7 @@
 # JSON-Validator
 
 <br>
+
 ## Problem - WHY
 
 - Some translation JSON files broken in some cases
