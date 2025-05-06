@@ -11,6 +11,9 @@
 
 - common option: online json validation tool
   - https://jsonlint.com/
+  - need copy json file content manually one by one
+  - tedious and time-consuming if many json files need check
+  - After online searching, no existing local command line tool to validate JSON was found so create the new tool to resolve the issue.
   <br><br>
 
 ### My NEW Tool
