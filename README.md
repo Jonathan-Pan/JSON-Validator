@@ -33,12 +33,19 @@
 
 ```
     C:\>json_validator.exe
-``` 
+```
+
+![Alt text](images/batch_mode_demo.png)
+
   -- **single** mode
 
 ```
    C:\>json_validator.exe -f <file_path_name> 
 ```
+
+![Alt text](images/single_mode_correct_demo.png)
+
+![Alt text](images/single_mode_error_demo.png)
 
 ## Next Step
 
