@@ -25,7 +25,10 @@
 
 ```
     C:\>json_validator.exe -h
-``` 
+```
+
+![Alt text](images/help_demo.png)
+ 
   -- **batch** mode (default **json_file_list.txt**):
 
 ```
